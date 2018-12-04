@@ -1,0 +1,12 @@
+{
+    "pages": [
+        "pages/gameCenterList/gameCenterList",
+        "pages/gameCenterDetail/gameCenterDetail"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    }
+}
